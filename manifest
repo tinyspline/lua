@@ -1,0 +1,25 @@
+commands = {}
+modules = {}
+repository = {
+   tinyspline = {
+      ["0.3.0-1"] = {
+         {
+            arch = "linux-x86_64"
+         },
+         {
+            arch = "macosx-x86_64"
+         }
+      },
+      ["0.4.0-1"] = {
+         {
+            arch = "linux-x86_64"
+         },
+         {
+            arch = "macosx-x86_64"
+         },
+         {
+            arch = "windows-x86_64"
+         }
+      }
+   }
+}
